@@ -7,8 +7,10 @@ public class LineDrawer : MonoBehaviour
 {
     public event Action Drawn;
 
-    [SerializeField] private float _pointTrakingThreshold = 0.1f;
-    [SerializeField] private float _minDistanceBetweenPoints = 0.1f;
+    [SerializeField] 
+    private float _pointTrakingThreshold = 0.1f;
+    [SerializeField]
+    private float _minDistanceBetweenPoints = 0.1f;
 
     private bool _isDrawingMode;
     private LineRenderer _lineRenderer;
@@ -56,7 +58,7 @@ public class LineDrawer : MonoBehaviour
 
         if (!IsSomePoint(hitPoint))//проверяю, новая ли точка добавляется
         {
-            _lastAddedPointTime = Time.time;//новое время добавления последней точки
+            _lastAddedPointTime = Time.time;//новое время добавления последней точки    
             _lineRenderer.positionCount++;//увеличиваю количество точек 
             _lineRenderer.SetPosition(_lineRenderer.positionCount-1, hitPoint);
         }

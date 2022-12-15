@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2022_1_22;UNITY_2022_1;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_QUERY_BUILDER;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2022_1_22;UNITY_2022_1;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_QUERY_BUILDER;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;CROSS_PLATFORM_INPUT;UNITY_POST_PROCESSING_STACK_V2;ODIN_INSPECTOR;ODIN_INSPECTOR_3;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -41,57 +41,366 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+     <Compile Include="Assets\Scripts\ChangeColorButtun.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
      <Compile Include="Assets\Scripts\LineDrawer.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+     <Compile Include="Assets\GUI PRO Kit - Casual Game\Scripts\PanelCasualGame.cs" />
+     <Compile Include="Assets\Scripts\EffectController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\DemoScene\BFX_DemoTest.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_DecalSettings.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_ShaderProperies.cs" />
+     <Compile Include="Assets\BloodDecalsAndEffects\BloodPool\Scripts\BloodPoolControl.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_RenderDepth.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_BloodDecalLayers.cs" />
+     <Compile Include="Assets\GUI PRO Kit - Casual Game\Scripts\PanelControlCasualGame.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_BloodSettings.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+     <Compile Include="Assets\GUI PRO Kit - Casual Game\Extensions\UIParticle\UIParticleSystem.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_DecaGizmo.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+     <Compile Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Scripts\WallDripper.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_ManualAnimationUpdate.cs" />
+     <Compile Include="Assets\KriptoFX\VolumetricBloodFX\Scripts\BFX_MouseOrbit.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_AutoRotate.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_New.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RotateCamera.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RandomDir.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_LightIntensityFade.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_Translate.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_LightFlicker.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_AutoDestructShuriken.cs" />
      <Folder Include="Assets" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Materials_Humans" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Label" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodDrips\Textures" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs\Magic Dark" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Icon_ItemIcons(x2)" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Sprites" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Shader &amp; Materials" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood4" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodPool\Materials" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Column_Textures" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodAnimals\Meshes" />
+     <Folder Include="Assets\TextMesh Pro\Sprites" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX4 Prefabs\Electric" />
+     <None Include="Assets\JMO Assets\Cartoon FX (legacy)\Shaders\CFX3 Multiply Color.shader" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Wall_2_Textures" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Armors_Humans\Meshes_ArmorsHumans" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Sword Trails\Ice" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodDrips" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood5" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_Character" />
+     <Folder Include="Assets\BloodDecalsAndEffects\TiledRoom\Textures" />
+     <Folder Include="Assets\TextMesh Pro\Resources\Sprite Assets" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Misc" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX Prefabs\Electric" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodSpurt\Meshes\Materials" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Glow.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Texts" />
      <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodAnimals\Prefabs" />
      <Folder Include="Assets\Adventure_Character" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Models" />
      <Folder Include="Assets\Walls and floors v.1\Textures" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Armors_Humans" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs\Environment" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Ubershader.shader" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\Blood2\Left" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodAnimals\Textures" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodHandsFeetAndDetails\Textures" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_SETTINGS.cginc" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\Blood2\Right" />
      <Folder Include="Assets\Scripts" />
-     <Folder Include="Assets\Blink\Art" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Textures" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <Folder Include="Assets\BloodDecalsAndEffects" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Prefabs" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX4 Prefabs\Misc" />
      <Folder Include="Assets\Prefabs\texture" />
-     <None Include="Assets\Blink\Art\Characters\Stylized\Humans\README.txt" />
-     <Folder Include="Assets\Blink" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_Component_Frames" />
+     <None Include="Assets\JMO Assets\Cartoon FX (legacy)\CartoonFX Free.txt" />
      <Folder Include="Assets\Adventure_Character\Materials" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Textures_Humans\Materials" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Sword Trails\Fire" />
+     <Folder Include="Assets\BloodDecalsAndEffects\TiledRoom\Materials" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Light" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodPool\Shaders\BloodPoolShader.shader" />
      <Folder Include="Assets\Adventure_Character\Mesh" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Electric" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Wall_3_Textures" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Animatons" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Particle\Texture" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Particle" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\PSD" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Nature" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\Prefabs" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Floor_2_Textures" />
-     <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack\Gathering" />
-     <Folder Include="Assets\Blink\Art\Characters" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Prefabs_Humans" />
-     <Folder Include="Assets\Blink\Art\Animations" />
+     <None Include="Assets\GUI PRO Kit - Casual Game\Extensions\UIParticle\hidden particle.shader" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodHandsFeetAndDetails" />
+     <Folder Include="Assets\BloodDecalsAndEffects\TiledRoom\Textures\Tiles" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Liquids" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+     <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_Component_Popups" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\DemoScene\Character\Character" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodSpurt\Meshes" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR.cginc" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodPool\Shaders" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_Background" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Misc" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX4 Prefabs\Magic" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\DemoScene" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX Prefabs" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Extensions\UIParticle" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <Folder Include="Assets\KriptoFX" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX4 Prefabs\Fire" />
+     <Folder Include="Assets\TextMesh Pro\Resources" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\Blood1" />
+     <Folder Include="Assets\Walls and floors v.1\Textures\Wall_1_Textures\Materials" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Fire" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_DemoScene_Particle" />
      <Folder Include="Assets\Adventure_Character\Prefabs" />
      <Folder Include="Assets\Adventure_Character\Textures" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Meshes_Humans" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs\Light" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX Prefabs\Explosions" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_Icon_RuneIcons(Original)" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodDrips\DripShader\DropletShader.shader" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodDrips\Prefabs" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Materials" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_UI" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_Image" />
      <Folder Include="Assets\Walls and floors v.1\Meshes" />
-     <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack\Combat" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX Prefabs\Hits" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\URP and HDRP Patches" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Shader &amp; Materials\UIAdditive.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Animated" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_Icon_ItemIcons(Original)" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster" />
+     <Folder Include="Assets\BloodDecalsAndEffects\TiledRoom" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_Component_Buttons" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood8" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodHandsFeetAndDetails\Materials" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Fire" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Textures" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodSpurt\Shaders\BloodSpurtAnimate.shader" />
+     <Folder Include="Assets\TextMesh Pro" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodDrips\HowToUse.txt" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodPool" />
      <Folder Include="Assets\Materials" />
-     <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Demo_Characters" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Armors_Humans\Materials_ArmorsHumans" />
-     <Folder Include="Assets\Blink\Art\Animations\Animations_Starter_Pack\Movement" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Demo_Characters\DEMO_StylizedHumanMale" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Popup" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodHandsFeetAndDetails\Meshes" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Fonts" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Magic Misc" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX4 Prefabs\Light" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Misc" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood3\Materials" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodSpurt\Materials" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodDecalAndFX_Documentation.txt" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Shaders\BloodWallDripShader.shader" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood9" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\+Document README+" />
+     <None Include="Assets\KriptoFX\VolumetricBloodFX\Shaders\BFX_Blood.shader" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodSpurt" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Gate_Textures" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Button" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\Blood2" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Sword Trails\Plain" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Stretched" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Blood" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Icon_PictoIcons(x2)" />
+     <Folder Include="Assets\JMO Assets" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_Component_Slider" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Textures\Blood" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Misc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_ClanFlag" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\AttachedBlood" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Scenes" />
+     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Eerie" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs\Magic Misc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\Readme Cartoon FX Remaster FREE.txt" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Materials" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\Blood2\Vertical" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodDrips\DripShader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Light" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\DemoScene\Character" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodWallDrip\BloodWallDrip_Documentation.txt" />
      <Folder Include="Assets\Walls and floors v.1\Prefabs" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Shaders" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Texts" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Skull &amp; Ghosts Effects" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Floor_3_Textures" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Floor_1_Textures" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Textures_Humans" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodAnimals" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood6" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Frame" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Explosions" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs\Misc" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Mesh" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas" />
+     <Folder Include="Assets\TextMesh Pro\Shaders" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Texts\_Make your own text effect.txt" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX Prefabs\Misc" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Ice" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX4 Prefabs" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Extensions" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Sprite Assets" />
+     <None Include="Assets\BloodDecalsAndEffects\Shaders\BloodDecalShader.shader" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Slider" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Materials" />
+     <Folder Include="Assets\TextMesh Pro\Resources\Style Sheets" />
+     <Folder Include="Assets\TextMesh Pro\Fonts" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodWallDrip" />
+     <Folder Include="Assets\BloodDecalsAndEffects\CameraAnims" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodPool\Scripts" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood7" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Meshes" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_Icon" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Textures\Bricks" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Scripts" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_Demo_UI" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials" />
      <Folder Include="Assets\Walls and floors v.1\Materials" />
      <Folder Include="Assets\Adventure_Character\Scenes" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans\Humans\Armors_Humans\Textures_ArmorsHumans" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Prefabs" />
+     <Folder Include="Assets\TextMesh Pro\Sprites\Materials" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodDrips\Materials" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodSpurt\Prefabs" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodHandsFeetAndDetails\Prefabs" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Scenes" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Electric" />
      <Folder Include="Assets\Walls and floors v.1" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Preview" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Textures\Blood\GreyscaleBlood" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Preview\Materials" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Textures\Noise" />
+     <None Include="Assets\KriptoFX\VolumetricBloodFX\Readme.txt" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodPool\Textures" />
+     <None Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Shader &amp; Materials\MobileAdditive.shader" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_CountryFlag" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodSpurt\Shaders" />
+     <None Include="Assets\JMO Assets\Cartoon FX (legacy)\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX4 Prefabs\Water" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Demo\Demo_Play" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Scenes" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Procedural Ring.shader" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Particle\Materials" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Prefabs" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs\Fire" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\Scripts" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX3 Prefabs\Electric" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Symbols" />
+     <None Include="Assets\KriptoFX\VolumetricBloodFX\Shaders\BFX_Decal.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Sword Trails" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodWallDrip\Shaders" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Water" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Pickup Items" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_Component_Label" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_URP.cginc" />
      <Folder Include="Assets\Prefabs" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Water" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Impacts" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodPool\Prefabs" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs\Prefabs_DemoScene_Panels" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Scripts" />
      <Folder Include="Assets\Walls and floors v.1\Scenes" />
+     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Textures" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Debris Hits" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodSpurt\Textures" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Shaders" />
+     <Folder Include="Assets\TextMesh Pro\Documentation" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Blood" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Textures" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras" />
      <Folder Include="Assets\Walls and floors v.1\Textures\Wall_1_Textures" />
-     <Folder Include="Assets\Blink\Art\Characters\Stylized\Humans" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodAnimals\Materials" />
+     <Folder Include="Assets\BloodDecalsAndEffects\BloodDrips\Meshes" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\Shaders" />
+     <Folder Include="Assets\KriptoFX\VolumetricBloodFX\BloodResources\blood3" />
+     <None Include="Assets\BloodDecalsAndEffects\BloodDrips\DripShader\DripShader.shader" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\Materials\Electric" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\Prefabs" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Fonts &amp; Materials" />
+     <Folder Include="Assets\BloodDecalsAndEffects\Materials\BloodDecalShaderSystem" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Color Gradient Presets" />
+     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component" />
+     <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Distortion.shader" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Button\Materials" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+     <Folder Include="Assets\JMO Assets\Cartoon FX (legacy)\CFX2 Prefabs\Explosions" />
+     <Folder Include="Assets\GUI PRO Kit - Casual Game\ResourcesData\Sprite\Component\Icon_RuneIcons(x2)" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.1.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -341,8 +650,32 @@
      <Reference Include="UnityEditor.UnityConnectModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.1.22f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Analytics.StandardEvents">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.analytics@3.7.1\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Analytics.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.analytics@3.7.1\Unity.Analytics.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Unsafe">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.burst@1.7.4\Unity.Burst.Unsafe.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil.Mdb">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.burst@1.7.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil.Pdb">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.burst@1.7.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.burst@1.7.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil.Rocks">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.burst@1.7.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
      <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Analytics.Tracker">
+     <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.analytics@3.7.1\Unity.Analytics.Tracker.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
      <HintPath>E:\Unity\Game of Advertising\Library\PackageCache\com.unity.testtools.codecoverage@1.1.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
@@ -722,6 +1055,9 @@
      <Reference Include="Unity.VSCode.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.2D.Tilemap.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
@@ -746,26 +1082,44 @@
      <Reference Include="Unity.VisualScripting.State.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Burst.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.2D.Sprite.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Services.Analytics.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Services.Analytics.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <Reference Include="Unity.Services.Analytics">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Services.Analytics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Postprocessing.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     <Reference Include="Unity.InputSystem">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Analytics">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Analytics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
@@ -776,8 +1130,23 @@
      <Reference Include="Unity.EditorCoroutines.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Mathematics">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Analytics.DataPrivacy">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Services.Core.Analytics">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Postprocessing.Runtime">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
@@ -788,6 +1157,9 @@
      <Reference Include="Unity.Timeline.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Mathematics.Editor">
+     <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
      <HintPath>E:\Unity\Game of Advertising\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
@@ -796,6 +1168,30 @@
      </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
+      <Project>{ab2e8dfe-0814-ee6f-75a5-d38ae8856eb1}</Project>
+      <Name>ToonyColorsPro.Demo.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXREditor.csproj">
+      <Project>{a9daf89c-3677-b55f-5f18-9b17873f1639}</Project>
+      <Name>CFXREditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXR.WelcomeScreen.csproj">
+      <Project>{a3783ba6-366d-2da1-4d6d-9de3c5b4e173}</Project>
+      <Name>CFXR.WelcomeScreen</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRRuntime.csproj">
+      <Project>{fc82d8b1-a831-4893-26ab-3ce420c98eae}</Project>
+      <Name>CFXRRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="KinoBloom.Runtime.csproj">
+      <Project>{6af4a136-4efd-a05f-f496-a3a7e80e8754}</Project>
+      <Name>KinoBloom.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRDemo.csproj">
+      <Project>{7a1228f9-9c1d-2fe7-9593-d557192f7bc0}</Project>
+      <Name>CFXRDemo</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
