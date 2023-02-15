@@ -20,6 +20,7 @@ public class LineDrawer : MonoBehaviour
     {
         _lineRenderer = GetComponent<LineRenderer>();// получаю lineRenderer
         _lineRenderer.positionCount = 0; // сбросила все точки у lineRenderer
+        
     }
 
     private void Update()
